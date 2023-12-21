@@ -3,8 +3,8 @@ background-color:#fff3e8}
 
 .intestazione {
 list-style-type: none;
-
-padding-left: 75%;
+margine;
+padding-left: 80%;
 overflow: hidden;
 font-family:Blippo, fantasy;
 background-color: #11738f;}
@@ -46,7 +46,7 @@ float: left;}
 .menu li a {
 display: block;
 color: #11738f;
-font-size: 30px;
+font-size: 30;
 text-align: center;
 padding: 50px;
 text-decoration:underline;}
@@ -54,12 +54,22 @@ text-decoration:underline;}
 .menu li a:hover {
 background-color: #eaad7c;}
 
+.cart{
+background-color: #11738f;
+color: white; 
+height: 45px; 
+width: 170px;
+border-radius: 25px;
+border: none;
+}
+
+
 #menuvert {
-margin-top:100px;
+margin-top:80px;
 position: absolute;
 font-family:Blippo, fantasy;
 width: 12%;
-top: 35%;
+top: 25%;
 font-size:30;
 background-color: #fff3e8;
 color: #cf6d59}
